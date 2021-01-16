@@ -1,0 +1,58 @@
+{
+  "author": "墨雪",
+  "description": "js高级程序第四版api",
+  "extension": null,
+  "generator": "site",
+  "isbn": "",
+  "language": "zh-hans",
+  "styles":{
+    "website":"./style/index.css"
+  },
+  "links": {
+      "sidebar": {
+          "墨雪博客": "https://moxue.art"
+      }
+  },
+  "output": null,
+  "pdf": {
+      "fontSize": 12,
+      "footerTemplate": null,
+      "headerTemplate": null,
+      "margin": {
+          "bottom": 36,
+          "left": 62,
+          "right": 62,
+          "top": 36
+      },
+      "pageNumbers": false,
+      "paperSize": "a4"
+  },
+  "plugins": ["-sharing","sharing-plus","splitter","expandable-chapters-small"],
+  "pluginsConfig": {
+    "sharing": {
+       "douban": false,
+       "facebook": true,
+       "google": true,
+       "hatenaBookmark": false,
+       "instapaper": false,
+       "line": true,
+       "linkedin": false,
+       "messenger": false,
+       "pocket": false,
+       "qq": true,
+       "qzone": true,
+       "stumbleupon": false,
+       "twitter": false,
+       "viber": false,
+       "vk": false,
+       "weibo": true,
+       "whatsapp": false,
+       "all":[]
+   }
+},
+  "title": "JS高程API",
+  "variables": {},
+  "structure" : {
+    "readme" : "README.md"
+}
+}
